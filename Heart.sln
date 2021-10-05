@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heart", "Heart\Heart.csproj", "{39DB7EC5-60B0-4ACA-8EBC-AB93AC4E19E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeartML.Model", "HeartML.Model\HeartML.Model.csproj", "{60C431F0-2194-48CB-B836-1841971CD3EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeartML.ConsoleApp", "HeartML.ConsoleApp\HeartML.ConsoleApp.csproj", "{19AD794B-C777-44A9-BF1A-152E22E6E226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39DB7EC5-60B0-4ACA-8EBC-AB93AC4E19E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DB7EC5-60B0-4ACA-8EBC-AB93AC4E19E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DB7EC5-60B0-4ACA-8EBC-AB93AC4E19E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DB7EC5-60B0-4ACA-8EBC-AB93AC4E19E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C431F0-2194-48CB-B836-1841971CD3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C431F0-2194-48CB-B836-1841971CD3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C431F0-2194-48CB-B836-1841971CD3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C431F0-2194-48CB-B836-1841971CD3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AD794B-C777-44A9-BF1A-152E22E6E226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AD794B-C777-44A9-BF1A-152E22E6E226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AD794B-C777-44A9-BF1A-152E22E6E226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AD794B-C777-44A9-BF1A-152E22E6E226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C336380-5644-4CCC-8D14-688368EA6D54}
+	EndGlobalSection
+EndGlobal
